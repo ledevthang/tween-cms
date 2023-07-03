@@ -3,14 +3,14 @@ import 'firebase/auth';
 import 'firebase/firestore';
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: 'AIzaSyAzL_2jiVBhmiIUFGs2z6-cDR-Hgoedh3k',
+  apiKey: 'AIzaSyAqd6MEXoObA3FNZMQtzbmDE1Tv5CSU86A',
   authDomain: 'tween-cms.vercel.app',
-  databaseURL: 'https://crema-react.firebaseio.com',
-  projectId: 'crema-react',
-  storageBucket: 'crema-react.appspot.com',
-  messagingSenderId: '369173776768',
-  appId: '1:369173776768:web:895ded916749deebd31965',
-  measurementId: 'G-976YVMRB4R',
+  databaseURL: 'https://tweencms.firebaseio.com',
+  projectId: 'tweencms',
+  storageBucket: 'tweencms.appspot.com',
+  messagingSenderId: '200070492372',
+  appId: '1:200070492372:web:fb5c59ba5716980af48b41',
+  measurementId: 'G-FP7V2YKNR4',
 };
 
 firebase.initializeApp(firebaseConfig);

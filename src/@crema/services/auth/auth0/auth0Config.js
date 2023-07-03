@@ -2,10 +2,10 @@ import createAuth0Client from '@auth0/auth0-spa-js';
 
 const Auth0Config = async () => {
   return await createAuth0Client({
-    client_id: '617CCZ9ZFiNYIw9KLRy6qbkh1HK3KgOJ',
-    domain: 'dev-obk84v4k.auth0.com',
+    client_id: 'jgJlvIR26pfte6OwXikydkEDJ0suuQTc',
+    domain: 'dev-o61c50mp0vf74sfu.au.auth0.com',
     redirect_uri: 'https://tween-cms.vercel.app/application/crm',
-    audience: 'https://dev-obk84v4k.auth0.com/userinfo',
+    audience: 'dev-o61c50mp0vf74sfu.au.auth0.com/userinfo',
   });
 };
 
