@@ -12,7 +12,7 @@ const FACEBOOK_APP_ID = 'XXXXXXXXX';
 
 const defaultTitle = 'Crema-Ant Design admin Template';
 const defaultDescription =
-  'Crema Ant is an Ant design based admin template. buid with CRA all ant library. ';
+  'Tween CMS';
 const defaultImage =
   'https://firebasestorage.googleapis.com/v0/b/crema-demo.appspot.com/o/logo512.png?alt=media';
 const defaultTwitter = '@crema';
