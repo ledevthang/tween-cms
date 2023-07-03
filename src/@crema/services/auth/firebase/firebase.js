@@ -4,7 +4,7 @@ import 'firebase/firestore';
 // Initialize Firebase
 const firebaseConfig = {
   apiKey: 'AIzaSyAzL_2jiVBhmiIUFGs2z6-cDR-Hgoedh3k',
-  authDomain: 'crema-react.firebaseapp.com',
+  authDomain: 'tween-cms.vercel.app',
   databaseURL: 'https://crema-react.firebaseio.com',
   projectId: 'crema-react',
   storageBucket: 'crema-react.appspot.com',
